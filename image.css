@@ -1,0 +1,31 @@
+.top-left{
+    text-align: left;
+    color: black;
+}
+.top-right{
+    text-align: right;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+.bottom-left{
+    text-align: justify;
+    color: black;
+}
+.bottom-right{
+    text-align: end;
+    color: black;
+    max-height: 1.5cqmax;
+    
+}
+body{
+    background-image: url(./cityscape-3346227.jpg);
+    opacity: 0.5;
+    z-index: 3;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
